@@ -1,0 +1,24 @@
+{
+    "timestamp_iso": "2025-04-14T10:20:00.440016",
+    "algorithm": "Bubble Sort",
+    "data_type": "letters",
+    "data_details": {
+        "count": 52,
+        "first_5": [
+            "g",
+            "s",
+            "j",
+            "b",
+            "p"
+        ],
+        "last_5": [
+            "g",
+            "v",
+            "c",
+            "c",
+            "s"
+        ]
+    },
+    "time_ms": 58005.612,
+    "memory_peak_kb": 2.39
+}

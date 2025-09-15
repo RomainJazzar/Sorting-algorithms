@@ -1,0 +1,24 @@
+{
+    "timestamp_iso": "2025-04-14T10:22:18.334439",
+    "algorithm": "Quick Sort",
+    "data_type": "numbers",
+    "data_details": {
+        "count": 50,
+        "first_5": [
+            12,
+            84,
+            60,
+            98,
+            56
+        ],
+        "last_5": [
+            75,
+            71,
+            30,
+            23,
+            21
+        ]
+    },
+    "time_ms": 9966.47,
+    "memory_peak_kb": 4.91
+}

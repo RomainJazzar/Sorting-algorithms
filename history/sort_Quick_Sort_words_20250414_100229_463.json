@@ -1,0 +1,24 @@
+{
+    "timestamp_iso": "2025-04-14T10:02:29.463301",
+    "algorithm": "Quick Sort",
+    "data_type": "words",
+    "data_details": {
+        "count": 30,
+        "first_5": [
+            "wnfujl",
+            "huwwvw",
+            "jyzone",
+            "fffmmf",
+            "qdfiog"
+        ],
+        "last_5": [
+            "onto",
+            "dkmfrud",
+            "azmfme",
+            "fei",
+            "jwa"
+        ]
+    },
+    "time_ms": 7194.066,
+    "memory_peak_kb": 3.67
+}

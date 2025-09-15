@@ -180,4 +180,3 @@ Mode manuel (étape) ❌ ✅
 Redémarrer (touche R) ❌ ✅
 Infobulles et survol ❌ ✅
 Affichage mémoire + temps ❌ ✅
-# Sorting-algorithms

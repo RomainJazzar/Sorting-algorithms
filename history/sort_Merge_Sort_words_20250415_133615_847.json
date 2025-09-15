@@ -1,0 +1,24 @@
+{
+    "timestamp_iso": "2025-04-15T13:36:15.847891",
+    "algorithm": "Merge Sort",
+    "data_type": "words",
+    "data_details": {
+        "count": 30,
+        "first_5": [
+            "odx",
+            "efry",
+            "zpiu",
+            "ztawzmi",
+            "bonkomk"
+        ],
+        "last_5": [
+            "lgm",
+            "isujpif",
+            "fqialv",
+            "bvjimkp",
+            "rvm"
+        ]
+    },
+    "time_ms": 383.259,
+    "memory_peak_kb": 4.28
+}

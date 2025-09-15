@@ -1,0 +1,24 @@
+{
+    "timestamp_iso": "2025-04-15T13:36:09.405018",
+    "algorithm": "Merge Sort",
+    "data_type": "words",
+    "data_details": {
+        "count": 30,
+        "first_5": [
+            "msnhwc",
+            "hrpwpkk",
+            "san",
+            "lhzv",
+            "vywlv"
+        ],
+        "last_5": [
+            "rahzm",
+            "sbdrm",
+            "bkhksrr",
+            "iqfobs",
+            "fquoakp"
+        ]
+    },
+    "time_ms": 3255.175,
+    "memory_peak_kb": 4.22
+}

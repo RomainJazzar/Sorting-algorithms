@@ -1,0 +1,24 @@
+{
+    "timestamp_iso": "2025-04-14T10:12:18.408358",
+    "algorithm": "Selection Sort",
+    "data_type": "words",
+    "data_details": {
+        "count": 30,
+        "first_5": [
+            "mybdgoo",
+            "ixhc",
+            "vhl",
+            "ahe",
+            "jlaexj"
+        ],
+        "last_5": [
+            "lasbqyq",
+            "ecis",
+            "doppqcj",
+            "ltw",
+            "ynm"
+        ]
+    },
+    "time_ms": 3326.322,
+    "memory_peak_kb": 1.71
+}

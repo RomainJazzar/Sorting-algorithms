@@ -1,0 +1,24 @@
+{
+    "timestamp_iso": "2025-04-15T13:36:33.648017",
+    "algorithm": "Heap Sort",
+    "data_type": "letters",
+    "data_details": {
+        "count": 52,
+        "first_5": [
+            "w",
+            "f",
+            "n",
+            "y",
+            "d"
+        ],
+        "last_5": [
+            "i",
+            "b",
+            "y",
+            "w",
+            "s"
+        ]
+    },
+    "time_ms": 3441.708,
+    "memory_peak_kb": 4.28
+}

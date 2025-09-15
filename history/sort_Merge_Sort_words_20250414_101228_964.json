@@ -1,0 +1,24 @@
+{
+    "timestamp_iso": "2025-04-14T10:12:28.964518",
+    "algorithm": "Merge Sort",
+    "data_type": "words",
+    "data_details": {
+        "count": 30,
+        "first_5": [
+            "phkz",
+            "erjx",
+            "tnaght",
+            "slyng",
+            "phhnm"
+        ],
+        "last_5": [
+            "uirf",
+            "tpld",
+            "ygls",
+            "odb",
+            "fhd"
+        ]
+    },
+    "time_ms": 3161.131,
+    "memory_peak_kb": 4.04
+}

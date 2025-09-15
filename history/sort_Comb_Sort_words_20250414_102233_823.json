@@ -1,0 +1,24 @@
+{
+    "timestamp_iso": "2025-04-14T10:22:33.823436",
+    "algorithm": "Comb Sort",
+    "data_type": "words",
+    "data_details": {
+        "count": 30,
+        "first_5": [
+            "fvvuod",
+            "wyzejut",
+            "exgwsi",
+            "avuwn",
+            "fjtf"
+        ],
+        "last_5": [
+            "bxecm",
+            "alatip",
+            "epysu",
+            "xhpnn",
+            "sjekgm"
+        ]
+    },
+    "time_ms": 3679.025,
+    "memory_peak_kb": 1.85
+}

@@ -1,0 +1,130 @@
+{
+  "numbers": [
+    {
+      "algorithm": "Bubble Sort",
+      "time_ms": 11188.288,
+      "memory_kb": 2.71,
+      "timestamp": "2025-04-13T12:30:58.473175"
+    },
+    {
+      "algorithm": "Quick Sort",
+      "time_ms": 5718.608,
+      "memory_kb": 3.82,
+      "timestamp": "2025-04-14T10:22:03.761223"
+    },
+    {
+      "algorithm": "Quick Sort",
+      "time_ms": 9966.47,
+      "memory_kb": 4.91,
+      "timestamp": "2025-04-14T10:22:18.334439"
+    },
+    {
+      "algorithm": "Bubble Sort",
+      "time_ms": 14344.31,
+      "memory_kb": 12.91,
+      "timestamp": "2025-04-14T10:34:45.766531"
+    }
+  ],
+  "words": [
+    {
+      "algorithm": "Quick Sort",
+      "time_ms": 7194.066,
+      "memory_kb": 3.67,
+      "timestamp": "2025-04-14T10:02:29.463301"
+    },
+    {
+      "algorithm": "Selection Sort",
+      "time_ms": 3326.322,
+      "memory_kb": 1.71,
+      "timestamp": "2025-04-14T10:12:18.408358"
+    },
+    {
+      "algorithm": "Merge Sort",
+      "time_ms": 3161.131,
+      "memory_kb": 4.04,
+      "timestamp": "2025-04-14T10:12:28.964518"
+    },
+    {
+      "algorithm": "Comb Sort",
+      "time_ms": 3679.025,
+      "memory_kb": 1.85,
+      "timestamp": "2025-04-14T10:22:33.823436"
+    },
+    {
+      "algorithm": "Heap Sort",
+      "time_ms": 8014.388,
+      "memory_kb": 2.97,
+      "timestamp": "2025-04-14T10:22:49.868131"
+    },
+    {
+      "algorithm": "Merge Sort",
+      "time_ms": 3255.175,
+      "memory_kb": 4.22,
+      "timestamp": "2025-04-15T13:36:09.405018"
+    },
+    {
+      "algorithm": "Merge Sort",
+      "time_ms": 383.259,
+      "memory_kb": 4.28,
+      "timestamp": "2025-04-15T13:36:15.847891"
+    }
+  ],
+  "letters": [
+    {
+      "algorithm": "Selection Sort",
+      "time_ms": 5783.818,
+      "memory_kb": 2.32,
+      "timestamp": "2025-04-14T10:02:42.510947"
+    },
+    {
+      "algorithm": "Bubble Sort",
+      "time_ms": 77693.199,
+      "memory_kb": 2.36,
+      "timestamp": "2025-04-14T10:11:46.474364"
+    },
+    {
+      "algorithm": "Bubble Sort",
+      "time_ms": 58005.612,
+      "memory_kb": 2.39,
+      "timestamp": "2025-04-14T10:20:00.440016"
+    },
+    {
+      "algorithm": "Bubble Sort",
+      "time_ms": 30058.726,
+      "memory_kb": 12.75,
+      "timestamp": "2025-04-14T10:20:34.418528"
+    },
+    {
+      "algorithm": "Insertion Sort",
+      "time_ms": 10584.477,
+      "memory_kb": 2.34,
+      "timestamp": "2025-04-14T10:21:08.705184"
+    },
+    {
+      "algorithm": "Heap Sort",
+      "time_ms": 3441.708,
+      "memory_kb": 4.28,
+      "timestamp": "2025-04-15T13:36:33.648017"
+    },
+    {
+      "algorithm": "Selection Sort",
+      "time_ms": 2297.542,
+      "memory_kb": 2.24,
+      "timestamp": "2025-04-15T13:37:02.957764"
+    }
+  ],
+  "colors": [
+    {
+      "algorithm": "Merge Sort",
+      "time_ms": 358.559,
+      "memory_kb": 6.4,
+      "timestamp": "2025-04-14T10:21:15.089317"
+    },
+    {
+      "algorithm": "Comb Sort",
+      "time_ms": 3168.154,
+      "memory_kb": 2.95,
+      "timestamp": "2025-04-15T13:36:46.557656"
+    }
+  ]
+}

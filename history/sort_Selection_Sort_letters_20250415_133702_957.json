@@ -1,0 +1,24 @@
+{
+    "timestamp_iso": "2025-04-15T13:37:02.957764",
+    "algorithm": "Selection Sort",
+    "data_type": "letters",
+    "data_details": {
+        "count": 52,
+        "first_5": [
+            "t",
+            "m",
+            "k",
+            "a",
+            "c"
+        ],
+        "last_5": [
+            "i",
+            "f",
+            "u",
+            "t",
+            "a"
+        ]
+    },
+    "time_ms": 2297.542,
+    "memory_peak_kb": 2.24
+}
